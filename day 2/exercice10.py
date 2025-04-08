@@ -1,0 +1,10 @@
+ssh = 22
+ftp_data = 20
+ftp_control = 21
+telnet = 23
+smtp = 25
+http = 80
+https = 443
+dns = 53
+rdp = 3389
+pop3 = 110
